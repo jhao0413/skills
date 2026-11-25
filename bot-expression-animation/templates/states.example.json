@@ -1,0 +1,15 @@
+{
+  "title": "Character Expressions",
+  "subtitle": "9 animated states · pure CSS SVG + 256px GIF",
+  "states": [
+    { "id": "idle", "durMs": 2800, "meta": "2.8s loop", "desc": "Soft float + highlight shift + blink" },
+    { "id": "happy", "durMs": 1800, "meta": "1.8s loop", "desc": "Spring hop + squash + squint + sparkles" },
+    { "id": "thinking", "durMs": 2200, "meta": "2.2s loop", "desc": "Tilt + eye scan + staggered dots" },
+    { "id": "listening", "durMs": 1600, "meta": "1.6s loop", "desc": "Attentive lean + sound arcs" },
+    { "id": "talking", "durMs": 1200, "meta": "1.2s loop", "desc": "Elastic pulse + voice bars" },
+    { "id": "success", "durMs": 2600, "meta": "1-shot + idle", "desc": "Spring pop + check badge + hold" },
+    { "id": "error", "durMs": 2200, "meta": "2.2s loop", "desc": "Damped wobble + uneven eyes + ?" },
+    { "id": "surprised", "durMs": 2400, "meta": "1-shot + idle", "desc": "Spring jump + wide eyes + !" },
+    { "id": "sleepy", "durMs": 3000, "meta": "3.0s loop", "desc": "Relaxed sink + droop + zZ" }
+  ]
+}
